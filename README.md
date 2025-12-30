@@ -8,5 +8,5 @@ git clone https://github.com/NightNovaNN/PowerShell-Commands
 cd PowerShell-Commands
 
 # Using
-. Profile.ps1
+. .\Profile.ps1
 ```
